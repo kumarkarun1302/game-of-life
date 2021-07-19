@@ -14,3 +14,4 @@ target
 *.versionsBackup
 
 *.iml
+build and test game of life
